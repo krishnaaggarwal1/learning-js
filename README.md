@@ -1,2 +1,2 @@
 # learning-js
-learning js and git
+Day 1 - Starting my SDE 2 Journey
